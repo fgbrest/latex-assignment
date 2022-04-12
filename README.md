@@ -1,2 +1,3 @@
 # latex-assignment
-Latex Template for University assignments
+Latex Template for University assignments.
+Compile with LuaLaTeX.
